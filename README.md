@@ -1,6 +1,7 @@
 # vue-router-vuex
 
-> A Vue.js project
+一个简单的不能再简单的vue-router && vuex demo  切换两个ui试图  分别对应各自的状态
+通过点击按钮，更新state
 
 ## Build Setup
 
@@ -13,6 +14,5 @@ npm run dev
 
 # build for production with minification
 npm run build
-```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
